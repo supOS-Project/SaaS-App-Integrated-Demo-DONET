@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>F:\work\c#-project\coreJDK\coreJDK\bin\Release\netcoreapp2.1\publish\</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings - 复制.Development.json">
+      <publishTime>07/21/2021 13:50:21</publishTime>
+    </File>
+    <File Include="appsettings - 复制.json">
+      <publishTime>07/27/2021 19:08:34</publishTime>
+    </File>
+    <File Include="appsettings.Development.json">
+      <publishTime>07/21/2021 13:50:21</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>07/27/2021 19:11:59</publishTime>
+    </File>
+    <File Include="Autofac.dll">
+      <publishTime>04/21/2021 19:29:06</publishTime>
+    </File>
+    <File Include="Autofac.Extensions.DependencyInjection.dll">
+      <publishTime>10/29/2020 13:06:32</publishTime>
+    </File>
+    <File Include="coreJDK.Common.dll">
+      <publishTime>07/27/2021 18:52:30</publishTime>
+    </File>
+    <File Include="coreJDK.Common.pdb">
+      <publishTime>07/27/2021 18:52:30</publishTime>
+    </File>
+    <File Include="coreJDK.deps.json">
+      <publishTime>07/27/2021 19:58:05</publishTime>
+    </File>
+    <File Include="coreJDK.dll">
+      <publishTime>07/27/2021 19:58:00</publishTime>
+    </File>
+    <File Include="coreJDK.Model.dll">
+      <publishTime>07/27/2021 18:52:30</publishTime>
+    </File>
+    <File Include="coreJDK.Model.pdb">
+      <publishTime>07/27/2021 18:52:30</publishTime>
+    </File>
+    <File Include="coreJDK.pdb">
+      <publishTime>07/27/2021 19:58:00</publishTime>
+    </File>
+    <File Include="coreJDK.Repository.dll">
+      <publishTime>07/27/2021 18:52:31</publishTime>
+    </File>
+    <File Include="coreJDK.Repository.pdb">
+      <publishTime>07/27/2021 18:52:31</publishTime>
+    </File>
+    <File Include="coreJDK.runtimeconfig.json">
+      <publishTime>07/27/2021 19:58:05</publishTime>
+    </File>
+    <File Include="coreJDK.Services.dll">
+      <publishTime>07/27/2021 18:52:31</publishTime>
+    </File>
+    <File Include="coreJDK.Services.pdb">
+      <publishTime>07/27/2021 18:52:31</publishTime>
+    </File>
+    <File Include="coreJDK.Views.dll">
+      <publishTime>07/27/2021 19:58:02</publishTime>
+    </File>
+    <File Include="coreJDK.Views.pdb">
+      <publishTime>07/27/2021 19:58:02</publishTime>
+    </File>
+    <File Include="Dapper.dll">
+      <publishTime>03/30/2019 17:21:52</publishTime>
+    </File>
+    <File Include="dotnet-aspnet-codegenerator-design.dll">
+      <publishTime>03/02/2019 19:51:38</publishTime>
+    </File>
+    <File Include="Google.Protobuf.dll">
+      <publishTime>12/21/2017 20:23:44</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>11/15/2019 08:36:44</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.CSharp.Workspaces.dll">
+      <publishTime>07/21/2021 13:35:14</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.Workspaces.dll">
+      <publishTime>07/21/2021 13:35:16</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll">
+      <publishTime>03/02/2019 19:51:20</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Core.dll">
+      <publishTime>03/02/2019 19:51:30</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.dll">
+      <publishTime>03/02/2019 19:51:32</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll">
+      <publishTime>03/02/2019 19:51:30</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll">
+      <publishTime>03/02/2019 19:51:26</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll">
+      <publishTime>03/02/2019 19:51:22</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll">
+      <publishTime>03/02/2019 19:51:34</publishTime>
+    </File>
+    <File Include="MySql.Data.dll">
+      <publishTime>01/28/2019 07:41:10</publishTime>
+    </File>
+    <File Include="nlog.config">
+      <publishTime>07/22/2021 13:04:41</publishTime>
+    </File>
+    <File Include="NLog.dll">
+      <publishTime>05/14/2021 12:27:46</publishTime>
+    </File>
+    <File Include="NLog.Extensions.Logging.dll">
+      <publishTime>06/15/2021 18:58:10</publishTime>
+    </File>
+    <File Include="NLog.Web.AspNetCore.dll">
+      <publishTime>07/14/2021 18:28:52</publishTime>
+    </File>
+    <File Include="NuGet.Frameworks.dll">
+      <publishTime>07/21/2021 13:35:14</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>07/19/2017 10:01:34</publishTime>
+    </File>
+    <File Include="System.Composition.AttributedModel.dll">
+      <publishTime>07/21/2021 13:35:56</publishTime>
+    </File>
+    <File Include="System.Composition.Convention.dll">
+      <publishTime>07/21/2021 13:35:56</publishTime>
+    </File>
+    <File Include="System.Composition.Hosting.dll">
+      <publishTime>07/21/2021 13:35:56</publishTime>
+    </File>
+    <File Include="System.Composition.Runtime.dll">
+      <publishTime>07/21/2021 13:35:56</publishTime>
+    </File>
+    <File Include="System.Composition.TypedParts.dll">
+      <publishTime>07/21/2021 13:35:56</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>11/20/2017 18:09:04</publishTime>
+    </File>
+    <File Include="System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>04/14/2020 22:48:06</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>07/19/2017 10:01:34</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>07/27/2021 19:58:05</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.css">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.min.css">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/images/banner1.svg">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/images/banner2.svg">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/images/banner3.svg">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/js/site.js">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/js/site.min.js">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/.bower.json">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css.map">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/npm.js">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/LICENSE">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/.bower.json">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/.bower.json">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.js">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.min.js">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.js">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.min.js">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/LICENSE.md">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/.bower.json">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.js">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.js">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.map">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/LICENSE.txt">
+      <publishTime>07/21/2021 13:50:22</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
